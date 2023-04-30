@@ -15,13 +15,13 @@ Advanced Scan and shop app built on Flutter that uses machine learning models us
 <br/>
 <br/> 
 **Barcode detection**
-<img src="https://github.com/prathamrehil/AppGPT/blob/main/ScreenShots/Screenshot_20230430_231500.png" height="500em" /> &nbsp; &nbsp;
+<img src="https://github.com/prathamrehil/Scan_And_Shop/blob/main/ScreenShots/Screenshot_20230430_231500.png" height="500em" /> &nbsp; &nbsp;
 
-<img src="https://github.com/prathamrehil/AppGPT/blob/main/ScreenShots/Screenshot_20230430_231511.png" height="500em" /> &nbsp; &nbsp;
+<img src="https://github.com/prathamrehil/Scan_And_Shop/blob/main/ScreenShots/Screenshot_20230430_231511.png" height="500em" /> &nbsp; &nbsp;
 <br/>
 <br/>
 **TensorFlow object detection**
-<img src="https://github.com/prathamrehil/AppGPT/blob/main/ScreenShots/Screenshot_20230430_231714.png" height="500em" /> &nbsp; &nbsp;
+<img src="https://github.com/prathamrehil/Scan_And_Shop/blob/main/ScreenShots/Screenshot_20230430_231714.png" height="500em" /> &nbsp; &nbsp;
 
 <img src="https://github.com/prathamrehil/AppGPT/blob/main/ScreenShots/Screenshot_20230430_231733.png" height="500em" /> &nbsp; &nbsp;
 <br/>
