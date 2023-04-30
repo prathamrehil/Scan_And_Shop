@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "889463580647",
+    "project_id": "scan-and-shop-7b83a",
+    "storage_bucket": "scan-and-shop-7b83a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889463580647:android:517deb852178ad95063f42",
+        "android_client_info": {
+          "package_name": "com.scanandshop.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889463580647-jr9gklh0111563jjbpan78h8lf8rjp4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scanandshop.app",
+            "certificate_hash": "741439562132a51c3829f6a9a6951557ab863c5b"
+          }
+        },
+        {
+          "client_id": "889463580647-j07dt53hqfqkj2tlfv1eor8jurhesv2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqmu2oQnh-lEoQqA_szTWW8tCMmTH556Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889463580647-j07dt53hqfqkj2tlfv1eor8jurhesv2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
